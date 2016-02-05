@@ -1,18 +1,18 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+A quick and easy way to count your calories when working out, or planning your workout!
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Rishi Kolady ([koladyr@berkeley.edu](mailto:koladyr@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [BurnCalc] (https://youtu.be/u46iRf34Xjw)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/BurnCalc_WriteUp-01.png" height="800" alt="Screenshot"/>
 
 ## Acknowledgments
 

@@ -12,7 +12,7 @@ See [BurnCalc] (https://youtu.be/u46iRf34Xjw)
 
 ## Screenshots
 
-<img src="screenshots/BurnCalc_WriteUp-01.png" height="800" alt="Screenshot"/>
+<img src="screenshots/BurnCalc_WriteUp-01.jpg" height="800" alt="Screenshot"/>
 
 ## Acknowledgments
 
